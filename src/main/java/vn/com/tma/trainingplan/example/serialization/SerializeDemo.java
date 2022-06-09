@@ -1,4 +1,4 @@
-package vn.com.tma.trainingplan;
+package vn.com.tma.trainingplan.example.serialization;
 
 import java.io.File;
 import java.io.FileOutputStream;

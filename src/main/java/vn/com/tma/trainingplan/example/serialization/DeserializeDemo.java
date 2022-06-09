@@ -1,4 +1,4 @@
-package vn.com.tma.trainingplan;
+package vn.com.tma.trainingplan.example.serialization;
 
 import java.io.EOFException;
 import java.io.FileInputStream;
@@ -25,6 +25,5 @@ public class DeserializeDemo {
 		} catch (EOFException eof) {
 			System.out.println("Deserialize end");
 		}
-//		System.out.println("Deserialize end");
 	}
 }

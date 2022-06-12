@@ -1,0 +1,2 @@
+DEBUG [Log4jExample.java:9] - Hello this is a debug message
+ INFO [Log4jExample.java:10] - Hello this is a info message

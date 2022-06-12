@@ -1,4 +1,4 @@
-package vn.com.tma.trainingplan.designpattern;
+package vn.com.tma.trainingplan.designpattern.singleton;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
